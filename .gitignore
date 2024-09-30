@@ -1,0 +1,5 @@
+/node_modules
+/tmp
+/static-scraper.js
+/dynamic-scraper.js
+/test.js
